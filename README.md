@@ -1,1 +1,1 @@
-# dicegame
+# dicegame This This is a website with a dice game I made using HTML, JavaScript, and CSS. When the game is played, it tells the player who won and what the total balance is based on the number of times they choose to play. JS is used to do this math and show the dice images. 
