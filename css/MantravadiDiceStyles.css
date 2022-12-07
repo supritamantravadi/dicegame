@@ -1,0 +1,61 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #56586e;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 30px;
+  /* text-shadow: 5px 0 #232931; */
+  font-family: "Oswald";
+  font-size: 3rem;
+  font-weight: 500;
+  color: #b331efd6;
+  background-color: beige;
+  text-align: center;
+}
+
+h2, h3 {
+  margin: 30px;
+  font-family: "Oswald";
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #16ddebd6;
+  text-align: center;
+}
+
+p {
+  color: #3cc6d0;
+}
+
+img {
+  width: 80%;
+  background-color: rgb(9, 213, 29);
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+  text-align: center;
+
+}
+
+
+.myBtn {
+  margin: 30px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
